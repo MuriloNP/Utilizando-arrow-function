@@ -1,0 +1,17 @@
+body {
+  background-color: #282828;
+}
+
+#btn {
+  border: none;
+  padding: 5px;
+  width: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.classe {
+  background-color: #dc143c;
+}
